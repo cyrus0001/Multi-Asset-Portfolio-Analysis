@@ -1,4 +1,4 @@
-Data Acquisition: Use the yfinance library to download historical prices for your chosen assets (stocks, ETFs, crypto, etc.) over the past 10 years. For example, yfinance’s download() function can fetch data for multiple tickers in one call
+##Data Acquisition: Use the yfinance library to download historical prices for your chosen assets (stocks, ETFs, crypto, etc.) over the past 10 years. For example, yfinance’s download() function can fetch data for multiple tickers in one call
 pypi.org
 . Make sure to request both the adjusted close (Adj Close) and unadjusted close (Close) prices. (The yfinance PyPI page notes that it provides an easy way to fetch Yahoo Finance data
 pypi.org
